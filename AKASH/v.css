@@ -1,0 +1,23 @@
+h1 {
+    color:#fafafa ;
+}
+p {
+    color:green;
+}
+.akash{
+    height: 40vh;
+    background-color:#1a0402;
+    text-align: center;
+    text-align: center;
+}
+.list{
+    height: 20vh;
+    background-color: orange;
+    text-align: left;
+}
+.sai{
+    background-color: blue;
+}
+table, th, td {
+    border: 1px solid black;
+  }
